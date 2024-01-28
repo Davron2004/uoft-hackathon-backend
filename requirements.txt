@@ -1,0 +1,10 @@
+django
+djangorestframework
+python-dotenv
+djangorestframework-jsonapi
+django-extensions
+django-filter
+authlib
+requests
+django-vite
+django-cors-headers
